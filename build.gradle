@@ -25,8 +25,8 @@ apply plugin: 'forge'
 apply plugin: 'idea'
 
 version = "${version}"
-group = "committee.nova.examplemod" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "ExampleMod"
+group = "committee.nova.uvoidlegacy" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = "UnforgivingVoid-Legacy-Forge"
 def mcVersion = "1.7.10"
 
 minecraft {

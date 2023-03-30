@@ -1,8 +1,8 @@
 [
     {
-        "modid": "modid",
-        "name": "Example Mod",
-        "description": "Example placeholder mod.",
+        "modid": "uvoid",
+        "name": "UnforgivingVoid:Legacy",
+        "description": "",
         "version": "${version}",
         "mcversion": "${mcversion}",
         "url": "",
